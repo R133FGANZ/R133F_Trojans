@@ -5,9 +5,8 @@ import sys
 def usage():
     print ("######################################################")
     print ("##   command python2 DDOS.py ip port packet         ##")
-    print ("##   author ===>>>  Mr.1MP051B3L                    ##")
+    print ("##   author ===>>>  RiefGanz                        ##")
     print ("##   Team   ===>>>  DevlinCyberTeam                 ##")
-    print ("##   IG     ===>>>  mr_4r13f                        ##")
     print ("######################################################")
 
 def flood(victim, vport, duration):
